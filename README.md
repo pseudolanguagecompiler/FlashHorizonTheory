@@ -120,6 +120,20 @@ Flash term ⟨f<sub>i</sub>f<sub>j</sub>⟩ → exact thermal β<sub>ωω'</sub>
 | Lab scale | λ₀ < 10<sup>-16</sup>/s | Supernova bounds |
 | No fine-tuning | α ∼ 1 | Natural scale |
 
+# Flash Horizon Theory - Consciousness & Entropy
+
+## Consciousness Creates Verifiable Entropy
+
+Does consciousness increase entropy?
+
+**Flash Horizon Theory predicts**: Consciousness is the physical process of **entropy creation** via relativistic GRW flashes. This is **experimentally testable** in EEG/fMRI labs.
+
+## Mechanism
+
+**Each flash** φ → φ + δφ<sub>i</sub> is irreversible, producing minimum entropy:
+
+
+
 ## Limitations & Open Questions
 
 1. **Fixed background**: No metric backreaction (toy model)
