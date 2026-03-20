@@ -6,11 +6,11 @@ This might sound like nonsense but it is not because it's testable. If the theor
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/13a83a01-3fb7-489e-b18b-1015a5659ea3" />
 
-Using **relativistic GRW flash ontology** in 1+1D scalar quantum field theory on fixed Schwarzschild spacetime, the theory demonstrates how stochastic collapse events near horizons naturally produce thermal radiation while generating definite classical outcomes for observers.
+How would the theory work? GRW provides the ontology.
 
 ## Overview
 
-Flash Horizon Theory postulates that quantum reality consists of:
+Flash Horizon Theory postulates that consciousness depends on:
 1. A **free scalar field** φ(u,v) on Schwarzschild spacetime
 2. **Relativistic flash events** {f<sub>i</sub>} — Poisson-distributed spacetime localizations with horizon-enhanced rate
 3. **Flash jumps** that stochastically actualize definite field configurations
