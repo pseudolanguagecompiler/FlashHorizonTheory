@@ -11,12 +11,6 @@ Though highly speculative, the theory is framed as *testable*—predicting measu
 
 ## 1. Concept Overview
 
-Flash Horizon Theory combines three main components:
-
-1. A **free scalar field** φ(u,v) on Schwarzschild spacetime.  
-2. **Relativistic flash events** {fᵢ}: Poisson-distributed spacetime localizations, enhanced by curvature near horizons.  
-3. **Flash jumps** δφᵢ(x): stochastic perturbations that actualize definite field configurations.
-
 The single mechanism of **curvature‑enhanced flashes** is proposed to address:
 - **Observer problem** – Flashes produce definite outcomes (Born rule via counting).  
 - **Hawking radiation** – Flash stochasticity reproduces the Planck emission spectrum.  
@@ -24,25 +18,6 @@ The single mechanism of **curvature‑enhanced flashes** is proposed to address:
 
 ---
 
-## 2. Core Postulates
-
-### 2.1 Flash Ontology
-Flash collapses occur with rate
-
-λ(x) = λ₀[1 + α R(x)]
-
-where curvature R(x) (via the Kretschmann scalar ∝ 1/r⁶) enhances flash frequency near the horizon (r = 2M).
-
-**Typical parameters**
-- λ₀ ≈ 10⁻¹⁶ s⁻¹ per nucleon (supernova bound)  
-- α ≈ 1 (natural scale)  
-- σ = ℓₚ (Planck-length localization)
-
-### 2.2 Flash Dynamics
-
-φ(x) → φ′(x) = φ(x) + δφᵢ(x) , δφᵢ ∼ 𝒩(0, σ²)
-
-Each flash acts within a Planck-scale diamond Dᵢ. Between flashes, the field evolves freely (□_g φ = 0).
 
 ### 2.3 Observed Reality
 
