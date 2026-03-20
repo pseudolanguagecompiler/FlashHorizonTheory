@@ -3,7 +3,7 @@
 **Flash Horizon Theory** is a speculative physical framework proposing that **consciousness** may arise from a mechanism analogous to **Hawking radiation**, based on the **GRW (Ghirardi–Rimini–Weber)** collapse ontology.  
 It interprets the brain as a kind of *dynamical horizon* where quantum collapse events (“flashes”) generate entropy, connecting information, curvature, and classical definiteness.
 
-Though highly speculative, the theory is framed as *testable*—predicting measurable traces of entropy production and non‑Gaussian correlations in analogue experiments.
+Though highly speculative, the theory is framed as *testable*—predicting measurable traces of entropy production and non‑Gaussian correlations in analogue experiments. I derive a full field equation for consciosuness at the end using GRW.
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/13a83a01-3fb7-489e-b18b-1015a5659ea3" />
 
@@ -135,4 +135,7 @@ Each flash φ → φ + δφᵢ is irreversible, producing minimal entrop
 Hypothesis: Conscious processes correspond to high flash‑density regions, where informational definiteness (S_classical) grows fastest.  
 Though unverified, this suggests consciousness might be the macroscopic trace of quantum entropy flow.
 
+## Deriving a Panpsychist field equation for consciousness from Flash Horizon Theory
+
+<img width="647" height="607" alt="image" src="https://github.com/user-attachments/assets/318240a6-1e51-4dee-ad6e-7a72f911dd8a" />
 
