@@ -1,6 +1,6 @@
 # Flash Horizon Theory
 
-“Flash Horizon Theory”: Is consciousness a physical process analogous to Hawking radiation at a dynamical horizon, and can this model provide a unified account of the observer problem and the black‑hole information problem in quantum gravity?”
+“Flash Horizon Theory”: Is consciousness a physical process analogous to Hawking radiation whre the brain is a hyperdimensional shadow or a dynamical horizon of the mind that has grown unconstrained, an exploration with GRW theory.
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/13a83a01-3fb7-489e-b18b-1015a5659ea3" />
 
