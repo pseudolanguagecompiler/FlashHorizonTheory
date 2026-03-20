@@ -42,9 +42,8 @@ Thus, horizon-localized flashes naturally reproduce the Hawking–Planck spectru
 
 ### 3.2 Observer Problem
 
-A macroscopic superposition |φ₁⟩ + |φ₂⟩ receives Nλt flashes (N = number of particles).  
-Counting statistics pick a definite history F₁ or F₂ consistent with Born probabilities.  
-No special role for biological observers—any flash‑dense region yields classicality.
+A macroscopic superposition |φ₁⟩ + |φ₂⟩ receives Nλt flashes (N = number of neurons in a Brain).  
+Counting statistics pick a definite history F₁ or F₂.
 
 ### 3.3 Information Paradox
 
