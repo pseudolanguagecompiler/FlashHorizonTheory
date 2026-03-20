@@ -2,6 +2,8 @@
 
 “Flash Horizon Theory”: Is consciousness a physical process analogous to Hawking radiation whre the brain is a hyperdimensional shadow or a dynamical horizon of the mind that has grown unconstrained, an exploration with GRW theory.
 
+This might sound like nonsense but it is not because it's testable. If the theory is true we could test it by measuring entropy produced by consciousness. 
+
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/13a83a01-3fb7-489e-b18b-1015a5659ea3" />
 
 Using **relativistic GRW flash ontology** in 1+1D scalar quantum field theory on fixed Schwarzschild spacetime, the theory demonstrates how stochastic collapse events near horizons naturally produce thermal radiation while generating definite classical outcomes for observers.
