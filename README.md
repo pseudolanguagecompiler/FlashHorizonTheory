@@ -1,9 +1,12 @@
 # Flash Horizon Theory
 
-**Flash Horizon Theory** is a speculative physical framework proposing that **consciousness** may arise from a mechanism analogous to **Hawking radiation**, based on the **GRW (Ghirardi–Rimini–Weber)** collapse ontology.  
-It interprets the brain as a kind of *dynamical horizon* where quantum collapse events (“flashes”) generate entropy, connecting information, curvature, and classical definiteness.
+**Flash Horizon Theory** is a speculative physical framework proposing that **consciousness** may arise from a mechanism analogous to **Hawking radiation** where the brain doesn't generate consciousness in a traditional sense but emits it spontaneously, based on the **GRW (Ghirardi–Rimini–Weber)** collapse ontology I derive the Observer field equation and make testable predictions.
 
-Though highly speculative, the theory predicts testable GRW signatures:
+How I drive this observer equation: 
+
+I interpret the brain as a kind of *dynamical horizon* where quantum collapse events (“flashes”) generate entropy, connecting information, curvature, and classical definiteness. GRW uses nucleons as a base unit.
+
+Though highly speculative, the theory predicts testable GRW signatures (basically that radiating consciousness produces measurable, specific entropy at a predicted rate called the flash rate)
 
 "Configuration space Schrödinger evolution fails for brain (τ=10^{-39}s decoherence).
 GRW flash theory fixes via spontaneous localization Λ=Nλ=10^{11}Hz.
