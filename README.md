@@ -1,6 +1,8 @@
 # Flash Horizon Theory
 
-**Flash Horizon Theory** is a unified toy model of quantum gravity that derives **Hawking radiation** from first principles while simultaneously solving the **quantum observer problem** and **black hole information paradox**. 
+“Flash Horizon Theory”: Is consciousness a physical process analogous to Hawking radiation at a dynamical horizon, and can this model provide a unified account of the observer problem and the black‑hole information problem in quantum gravity?”
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/13a83a01-3fb7-489e-b18b-1015a5659ea3" />
 
 Using **relativistic GRW flash ontology** in 1+1D scalar quantum field theory on fixed Schwarzschild spacetime, the theory demonstrates how stochastic collapse events near horizons naturally produce thermal radiation while generating definite classical outcomes for observers.
 
