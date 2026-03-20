@@ -74,6 +74,9 @@ No special role for biological observers—any flash‑dense region yields class
 ### 3.3 Information Paradox
 
 Non‑unitary flashes decrease quantum coherence while preserving classical records:
+In this interpretation, memory is the stored flash history F, and the self is the coherent, evolving narrative thread that reads and binds these records over time.
+
+In other words, ,on‑unitary flashes decrease quantum coherence while preserving classical records:
 
 S_total = S_classical(F) + S_quantum(ψ|F)
 
